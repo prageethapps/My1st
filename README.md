@@ -1,2 +1,2 @@
-# My1st
-in class creation
+# My first Github project
+In class creation
